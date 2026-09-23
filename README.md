@@ -1,7 +1,12 @@
 # Kigali Express — Driver Lookup Optimization
 
 **Team Challenge** — comparing Linear Search, Binary Search, and Hash Map lookups for a 10,000-driver delivery fleet.
-
+# Team Members (Team Grok)
+- Hillary Kayinababo
+- Ines Ingabire
+- Elsie Glenna Ineza
+- Sonia Keza Gendaneza
+  
 ## 1. The Mission
 
 A fast-food delivery app in Kigali has 10,000 drivers. Every customer request was scanning the driver list sequentially, causing high latency. This project compares three lookup strategies — **linear search**, **binary search**, and a **hash map** — with real, measured performance numbers.
